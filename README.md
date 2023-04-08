@@ -1,6 +1,6 @@
-# **Welcome to Woubou client app**
+# **Welcome to Zubu client app**
 
-Woubou is a new congoleese app for real estate ad.
+zubu is a new congoleese app for real estate ad.
 
 ## **Frontend**
 
@@ -9,14 +9,14 @@ Woubou is a new congoleese app for real estate ad.
 First clone this repo. Open your terminale and type : 
 
 ```bash
-$ git clone https://github.com/TeddyCubaka/Zubu-frontend.git
+$ git clone git@github.com:TeddyCubaka/zubu.git
 # or 
-$ git clone git@github.com:TeddyCubaka/Zubu-frontend.git
+$ git clone https://github.com/TeddyCubaka/zubu.git
 ```
 
 Once done, go to the project folder by typing :
 ```bash
-cd Zubu-frontend 
+cd zubu 
 ```
 
 Once on the root of the project, type this command to install dependacies :
@@ -50,17 +50,17 @@ The app will be learned on the port `3000`.
 First, clone this repository. type this command in your terminal :
 
 ```bash
-$ git clone https://github.com/TeddyCubaka/Zubu_backend.git
+$ git clone https://github.com/TeddyCubaka/api-zubu.git
 
 # or if you like use  shh keys
 
-$ git clone git@github.com:TeddyCubaka/Zubu_backend.git
+$ git clone git@github.com:TeddyCubaka/api-zubu.git
 ```
 
 Once done, go to project folder with typing :
 
 ```bash
-$ cd  Zubu_backend
+$ cd  api-zubu
 ```
 
 Still in your terminal, type this command to install depandencies : 
