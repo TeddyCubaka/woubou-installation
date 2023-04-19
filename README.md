@@ -4,13 +4,15 @@ zubu is a new congoleese app for real estate ad.
 
 ## **Frontend**
 
-### `- installation`
+### - installation
 
 First clone this repo. Open your terminale and type : 
 
 ```bash
 $ git clone git@github.com:TeddyCubaka/zubu.git
+
 # or 
+
 $ git clone https://github.com/TeddyCubaka/zubu.git
 ```
 
@@ -19,24 +21,24 @@ Once done, go to the project folder by typing :
 cd zubu 
 ```
 
-Once on the root of the project, type this command to install dependacies :
+install dependacies with this command :
 ```bash
 $ yarn install
 ```
 
-Once done create the `.env` file and config it in reference to `.env.example` file.
+Once done. Create the `.env` file and config it in reference to `.env.example` file.
 
-### `- Start project`
+### - Start project
 
 Once the configurations are completed, go back to your terminale and type this command to start the project :
 
 ```bash
-$ yarn start
+$ yarn dev
 ```
 
-The app will be learned on the port `3000`.
+The app will be learned on the port [`http://localhost:3000`](http://localhost:3000).
 
-### `- Technologies`
+### - Technologies
 
 - Next js
 - Typescript
@@ -45,14 +47,14 @@ The app will be learned on the port `3000`.
 ## **Backend**
 
 
-### `- installation`
+### - installation
 
 First, clone this repository. type this command in your terminal :
 
 ```bash
 $ git clone https://github.com/TeddyCubaka/api-zubu.git
 
-# or if you like use  shh keys
+# or with hhs key
 
 $ git clone git@github.com:TeddyCubaka/api-zubu.git
 ```
@@ -79,11 +81,11 @@ After installation and config. Type :
 $ yarn start
 ```
 
-The server server will run on http://localhost:4000.
+The server server will run on [`http://localhost:4000`](http://localhost:4000).
 
 ### `- Technologie`
 
 This project use :
 
-    - Express
-    - Mongodb with Mongoose
+- Express
+- Mongodb with Mongoose
